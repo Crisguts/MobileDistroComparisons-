@@ -1,0 +1,16 @@
+Distros for samsung galaxy s3:
+postmarket : https://wiki.postmarketos.org/wiki/Samsung_Galaxy_S_III_(samsung-m0)
+maybe ubuntu touch
+
+Notes:
+List of pros and cons.
+https://wiki.postmarketos.org/wiki/Devices
+
+
+Distros for samsung galaxy a70
+Ubuntu touch : https://xdaforums.com/t/rom-alpha-ubports-ubuntu-touch-for-galaxy-a70.4397397/
+LineageOS .17 : https://xdaforums.com/t/rom-beta-unofficial-lineageos-17-1-for-galaxy-a70.3989807/
+
+Notes: 
+Steps for ubuntu
+https://www.reddit.com/r/GalaxyA70/comments/sryu7y/ubuntu_touch_for_a70_a_surprise_to_be_sure/?rdt=46589
