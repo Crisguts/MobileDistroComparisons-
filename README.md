@@ -18,16 +18,22 @@ Solutions Compared
 Our contribution will be to spread our knowledge so that the people looking into this, can use our help to finish their own projects. We will be comparing how different generations of devices handle the chosen distributions, if possible on the older model, and guide the viewer through our steps.
 
    Week 1
+   
 Timeline
 - Wipe and clean the phones that will be used and make sure they are working correctly.
 - Research the difference between the distributions initially found, and determine the better one for
 each device.
 - Research all the steps needed to install the chosen distributions, mark down possible issues that could
 be encountered during the procedure. - (Document our findings clearly.)
+
 Week 2
+
 - Finalize all our research and steps.
 - Set up our instructions for the video (the steps we will follow during filming). - Film the tutorial for the older device.
+
+  
 Week 3
+
 - Film the tutorial for the newer device.
 - Edit the video.
 - After updating all documents, publish contents. - Present to classmates.
