@@ -1,11 +1,10 @@
-   Cristian Racila | Nicholas Roy 2024
+Cristian Racila | Nicholas Roy 2024
 Course: UNIX Semester: 3 Section:00002
-Project Proposal – Delivered on 7th November,
+Project Proposal – Delivered on 7th November
+
 MobileDistroComparisons
-License:
-MobileDistroComparisons © 2024 by Cristian Racila, Nicholas Roy is licensed under CC BY-SA
-4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/
- Project Description
+
+                                                             Project Description
 Our project objective is to successfully install Linux distributions on two different generations of android cellphones. Our aim is not only to see if it’s possible to make it work on older generations as well as newer generations, but also to track our progress and upload a YouTube video of our successful steps.
 Platform of choice
 We will be using our desktop computers to work on these cellphones : -Samsung Galaxy a70.
