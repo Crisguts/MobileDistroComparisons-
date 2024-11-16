@@ -19,7 +19,6 @@ Our contribution will be to spread our knowledge so that the people looking into
 
    Week 1
    
-Timeline
 - Wipe and clean the phones that will be used and make sure they are working correctly.
 - Research the difference between the distributions initially found, and determine the better one for
 each device.
