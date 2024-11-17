@@ -1,6 +1,6 @@
-Cristian Racila | Nicholas Roy 2024
+Cristian Racila | Nicholas Roy  
+
 Course: UNIX Semester: 3 Section:00002
-Project Proposal – Delivered on 7th November
 
                                             MobileDistroComparisons
 
