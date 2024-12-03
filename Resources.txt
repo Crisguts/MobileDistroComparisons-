@@ -1,9 +1,35 @@
-Here we will put links used 
+Here we will put links to forms and downloads used for this project.
 
-Generic Tools:
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Generic Tools: |
+------------------
+ADB and FastBoot tools : https://developer.android.com/tools/releases/platform-tools
+Odin : https://odindownload.com/download/
+          -Direct download : https://odindownload.com/download/Odin3_v3.14.4.zip
+TWRP download used for A70 : https://dl.twrp.me/a70q/twrp-3.7.0_9-0-a70q.img.tar.html
+          -Direct download : https://dl.twrp.me/a70q/twrp-3.7.0_9-0-a70q.img.tar
 
 
-Samsung Galaxy A70 Forms And Installations:
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Samsung Galaxy A70 Forms And Installations: |
+-----------------------------------------------
+Ubuntu Touch XDA Form : https://xdaforums.com/t/rom-alpha-ubports-ubuntu-touch-for-galaxy-a70.4397397/
+          -Direct zip file download : https://drive.google.com/file/d/1D1HWC-N5C8AawsrCMYzhCRj5u_mS_YCZ/view?usp=sharing
+
+LineageOS XDA Form : https://drive.google.com/file/d/1D1HWC-N5C8AawsrCMYzhCRj5u_mS_YCZ/view?usp=sharing
+          -Direct zip file download : https://github.com/Grarak/android_device_samsung_a70q/releases/download/20200213/lineage-17.1-20200213-UNOFFICIAL-a70q.zip
+
+Cr Droid XDA Form : https://xdaforums.com/t/closed-rom-12-1l-unofficial-27-11-2022-crdroid-8-for-samsung-galaxy-a70-ds-ss.4522183/#post-87784377
+          -Direct zip file download : https://sourceforge.net/projects/haky86/files/SamsungGalaxyA70/ROMs/Android-12.x/crDroid/crDroidAndroid-12.1-20221127-a70q-    
+           v8.11.zip/download
 
 
-Samsung Galaxy S3 Forms And Installations:
+VBMeta Image Form : https://xdaforums.com/t/recovery-unofficial-root-twrp-for-galaxy-a70.3955984/
+          -Direct tar file download : https://github.com/Grarak/android_device_samsung_a70q-twrp/releases/download/3.3.1-3/vbmeta.tar
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Samsung Galaxy S3 Forms And Installations: |
+----------------------------------------------
