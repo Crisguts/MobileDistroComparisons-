@@ -1,0 +1,24 @@
+============================================================================
+Here lie all the resources used for the Samsung Galaxy s3 custom ROM install
+============================================================================
+
+=== General Tools ===
+
+Platform-tools for windows - ADB:
+https://developer.android.com/tools/releases/platform-tools?_gl=1*1fmxm5l*_up*MQ..*_ga*NDk3NTg2ODA4LjE3MzMxOTAyMDg.*_ga_6HH9YJMN9M*MTczMzE5MDIwOC4xLjAuMTczMzE5MDIwOC4wLjAuODY2NjI0Nzg1
+
+Odin:
+https://odindownload.com/SamsungOdin/
+
+TWRP .tar file:
+https://dl.twrp.me/dreamlte/twrp-3.2.1-0-dreamlte.img.tar.html
+
+
+=== Samsung s3 Specific ===
+
+crDroid Forums - download link:
+https://xdaforums.com/t/rom-7-1-2-crdroid-3-8-9-unofficial-d2att-can-i747-m-compiled-by-alexenferman.4021787/
+
+
+
+
