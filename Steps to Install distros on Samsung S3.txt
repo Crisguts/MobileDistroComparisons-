@@ -1,1 +1,46 @@
+Step-by-Step Installation Process for Custom ROM on Galaxy s3
+--------------------------------------------------------------
 
+-Overview-
+Allows for the install of any custom ROMs on the Samsung Galaxy s3.
+It may work on other phones, but make sure you have the specific.
+Additionally, these steps require windows for Odin and terminal commands,
+however they are still possible through Linux.
+NOTE: This is an invasive process, so make sure to back up your phone!
+We are not responsible for any phone bricking. This is on you.
+
+==================================================================================================
+Requirements: You can find the files in the Resources_s3 folder
+- TWRP .tar folder
+- ADB platform tools
+- Odin 3 .zip file
+- A functional Samsung s3 that you are willing to brick
+- Custom ROM/zip file corresponding to your phone
+==================================================================================================
+Step 1: Setup your device
+ 1.Enable Developer Options in Settings > About Phone (tap "Build Number" 7 times).
+ 2.Enable USB debugging in developer mode
+ 3.Reboot to Download Mode (Power + Volume Down + Home).
+==================================================================================================
+Step 2: Flash TWRP Recovery
+ 1.Open Odin3 on your computer
+ 2.Connect your phone via USB, it should be in download mode
+ 2.Load the TWRP image into the "AP" section, turn off auto-reboot in options, and start.
+ 3.Disconnect and immediately boot into TWRP by booting into recovery mode (Power + Volume Up + Home).
+==================================================================================================
+Step 3: Format and Wipe the Device
+ 1.In TWRP, go to Wipe > Format Data, type "yes," and confirm.
+ 2.Perform an Advanced Wipe: Select Cache, Dalvik/ART Cache, and System.
+ 3.Reboot back into recovery to ensure a clean environment.
+==================================================================================================
+Step 5: Transfer the ROM/ZIP File
+ 1.Connect your phone to the PC in TWRP mode.
+ 2.Verify the connection with before transferring using "./adb devices" command in windows terminal
+ 2.Use "./adb push [ROM.zip] /" in terminal to copy the ROM/ZIP file to the phone.
+==================================================================================================
+Step 6: Flash the ROM
+ 1.In TWRP, go to Install, select the ROM/ZIP file from the device's storage, this should be a zip file format.
+ 2.Swipe to confirm installation.
+
+Yippie! If your phone isn't a brick by now, you should have your own custom OS running on your phone.
+Have fun with whatever shenanigans you were planning on doing with your silly new system riddled with bugs! 
