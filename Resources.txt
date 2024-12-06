@@ -8,7 +8,7 @@ Odin : https://odindownload.com/download/
           -Direct download : https://odindownload.com/download/Odin3_v3.14.4.zip
 TWRP download used for A70 : https://dl.twrp.me/a70q/twrp-3.7.0_9-0-a70q.img.tar.html
           -Direct download : https://dl.twrp.me/a70q/twrp-3.7.0_9-0-a70q.img.tar
-
+TWRP download used for S3 : https://dl.twrp.me/dreamlte/twrp-3.2.1-0-dreamlte.img.tar.html
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
