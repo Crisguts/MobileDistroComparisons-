@@ -10,7 +10,7 @@ NOTE: This is an invasive process, so make sure to back up your phone!
 We are not responsible for any phone bricking. This is on you.
 
 ==================================================================================================
-Requirements: You can find the links to these in the Resources_s3.txt file
+Requirements: You can find the links to these in the Resources.txt file
 - TWRP .tar folder
 - ADB platform tools
 - Odin 3 .zip file
