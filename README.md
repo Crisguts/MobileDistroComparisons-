@@ -36,4 +36,7 @@ Week 3
 - Film the tutorial for the newer device.
 - Edit the video.
 - After updating all documents, publish contents. - Present to classmates.
+
+- Link to completed video: https://youtu.be/PEgLurLVKGY?si=H5YKqQop--2B44lP
+- 
 Team composition Cristian Racila – Nicholas Roy
