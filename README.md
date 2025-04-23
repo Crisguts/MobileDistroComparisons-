@@ -38,5 +38,5 @@ Week 3
 - After updating all documents, publish contents. - Present to classmates.
 
 - Link to completed video: https://youtu.be/PEgLurLVKGY?si=H5YKqQop--2B44lP
-- 
+  
 Team composition Cristian Racila – Nicholas Roy
